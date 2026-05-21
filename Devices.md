@@ -1,212 +1,229 @@
-# SONOS DEVICES
+SONOS FULL FEATURE MATRIX (TROUBLESHOOTING EDITION)
 
-### ALL-IN-ONE
+Legend:
+YES      = supported out of the box
+ADAPTER  = requires optional adapter
+NO       = not supported
 
-## Headphones 
 
-* Lossless audio
-* Dolby Atmos
-* Dynamic head tracking
-* USB-C and 3.5 mm    
-* Wear detection it pause automatically
-* Active Noise Cancellation
-* Aware mode it allows to hear eviroment 
-* 30 Hour Battery life                        
-* Rapid Charging
-* Bluetooth  
+====================================================================
+SMART SPEAKERS / MUSIC SPEAKERS
+====================================================================
 
-It works with all devices except with Playbar and Playbase 
+Device                  WiFi   Ethernet  Bluetooth  AirPlay2  Mic  Assistant  LineIn   Battery  Stereo  Surround  SonosNet
+--------------------------------------------------------------------------------------------------------------------------------
+Sonos Era 100           YES    ADAPTER   YES        YES        YES  YES        ADAPTER  NO       YES     YES       NO
+Sonos Era 300           YES    ADAPTER   YES        YES        YES  YES        ADAPTER  NO       YES     YES       NO
+Sonos One               YES    YES       NO         YES        YES  YES        NO       NO       YES     YES       YES
+Sonos One SL            YES    YES       NO         YES        NO   NO         NO       NO       YES     YES       YES
+Sonos Five              YES    YES       NO         YES        NO   NO         YES      NO       YES     YES       YES
+Sonos Play:1            YES    YES       NO         NO         NO   NO         NO       NO       YES     YES       YES
+Sonos Play:3            YES    YES       NO         NO         NO   NO         NO       NO       YES     YES       YES
+Sonos Play:5 Gen 2      YES    YES       NO         YES        NO   NO         YES      NO       YES     YES       YES
+Sonos Play:5 Gen 1      YES    YES       NO         NO         NO   NO         YES      NO       YES     NO        YES
 
-## ERA 100
 
-* Voice enabled             
-* Bluetooth
-* Trueplay  
-* Touch Controls
-* Wifi 
-* Line In 
-* Apple AirPlay2
-* Humidity
-* Mono Sound 
-* It has version SL (Speechless)
-* Version PRO it has PoE
+====================================================================
+PORTABLE SPEAKERS
+====================================================================
 
-## ERA 300
+Device                  WiFi   Ethernet  Bluetooth  AirPlay2  Mic  Assistant  USB-C    Battery  Waterproof  Stereo  SonosNet
+--------------------------------------------------------------------------------------------------------------------------------
+Sonos Move              YES    NO        YES        YES        YES  YES        NO       YES      Resistent    YES     NO
+Sonos Move 2            YES    ADAPTER   YES        YES        YES  YES        YES      YES      Resistent    YES     NO
+Sonos Roam              YES    NO        YES        YES        YES  YES        NO       YES      YES          YES     NO
+Sonos Roam 2            YES    NO        YES        YES        YES  YES        NO       YES      YES          YES     NO
+Sonos Play              YES    NO        YES        YES        YES  YES        YES      YES      Resistent    YES     NO
 
-* Dolby Atmos
-* Wifi  
-* Line in
-* Apple Air-Play2
-* Humidity resistant
-* Voice enabled
-* Bluetooth 
-* Trueplay  
-* Touch controls 
-* Can be convert from Type-C true adapter 3.5mm 
+====================================================================
+SOUNDBARS / HOME THEATER
+====================================================================
 
-## SONOS PLAY
+Device                  WiFi   Ethernet  Bluetooth  AirPlay2  Mic  Assistant  HDMI ARC  Optical  Atmos  Surround  SonosNet      Sound motion
+----------------------------------------------------------------------------------------------------------------------------------------------
+Sonos Arc               YES    YES       NO         YES        YES  YES        YES       ADAPTER  YES     YES       YES             Yes
+Sonos Arc Ultra         YES    YES       YES        YES        YES  YES        YES       ADAPTER  YES     YES       YES
+Sonos Beam Gen 1        YES    YES       NO         YES        YES  YES        YES       ADAPTER  NO      YES       YES
+Sonos Beam Gen 2        YES    YES       NO         YES        YES  YES        YES       ADAPTER  YES     YES       YES
+Sonos Ray               YES    YES       NO         YES        NO   NO         NO        YES      NO      YES       YES
+Sonos Playbar           YES    YES       NO         NO         NO   NO         NO        YES      NO      YES       YES
+Sonos Playbase          YES    YES       NO         YES        NO   NO         NO        YES      NO      YES       YES
 
-* 24 hour battery life
-* Drop resistant   
-* Bluetooth
-* Automatic Trueplay    
-* Button Controls 
-* Line in ready
-* Waterproof IP67   
-* WiFi
-* Charging Base 
-* Apple Air-Play 2
-* Voice Enabled
-* Stereo 
-* Group up to 4 speakers with Move 2 by Bluetooth 
 
-## SONOS FIVE
+====================================================================
+COMPONENTS / AMPS / STREAMERS
+====================================================================
 
-* Line in       
-* Apple AirPlay 2
-* Humidity resistant 
-* Wifi  
-* Touch Control 
-* Adapter RCA to 3.5mm 
-* Horizontal Stereo / Vertically Mono  
+Device                      WiFi   Ethernet  Bluetooth  AirPlay2  Mic  Assistant  LineIn  LineOut      HDMI ARC  SonosNet
+--------------------------------------------------------------------------------------------------------------------------------
+Sonos Amp                   YES    YES       NO         YES        NO   NO         YES     Speaker Out  YES       YES
+Sonos Port                  YES    YES       NO         YES        NO   NO         YES     YES          NO        YES
+Sonos Connect Gen 2         YES    YES       NO         NO         NO   NO         YES     YES          NO        YES
+Sonos Connect Gen 1         YES    YES       NO         NO         NO   NO         YES     YES          NO        YES
+Sonos Connect:Amp Gen 2     YES    YES       NO         NO         NO   NO         YES     Speaker Out  NO        YES
+Sonos Connect:Amp Gen 1     YES    YES       NO         NO         NO   NO         YES     Speaker Out  NO        YES
 
-### ALL-in-One Portables
 
-# Move 
+====================================================================
+NETWORK / INFRASTRUCTURE DEVICES
+====================================================================
 
-* Firts Portable
-* 11 Hour Battery
-* Wifi
-* Join Botton 
-* Does not have line in.
-* Voice assistance 
-* Dont connect to Ethernet cable 
-* Voice Assitance
-* Automatic Trueplay 
-* IP56
+Device            WiFi   Ethernet  Bluetooth  AirPlay  SonosNet  S2 Compatible  Notes
+---------------------------------------------------------------------------------------------------------
+Sonos Boost       YES    YES       NO         NO       YES        YES            Dedicated Sonos mesh device
+Sonos Bridge      YES    YES       NO         NO       YES        NO             Legacy networking only
+Sonos CR200       YES    NO        NO         NO       NO         NO             Legacy touchscreen controller
 
-# Move 2
 
-* Firts Portable
-* 24 Hour Battery
-* Wifi
-* Bluetooth
-* Join Botton 
-* Move 2 have Line in button
-* Voice assistance (does not support Google)
-* Move 2 waterproof IP56
-* Do not connect to Ethernet cable 
-* Do Voice Assitance (Move2 has switch)
-* Apple AirPlay 2
-* Automatic Trueplay 
-* Touch Controls 
+====================================================================
+BLUETOOTH DEVICES
+====================================================================
 
-# Roam 
+- Sonos Era 100
+- Sonos Era 300
+- Sonos Arc Ultra
+- Sonos Move
+- Sonos Move 2
+- Sonos Roam
+- Sonos Roam 2
 
-* Waterproof(IP67)
-* 10 battery 
-* Bluetooth
-* Apple AirPlay 2
-* Voice enabled 
-* WiFi
-* Automatic Trueplay    
-* Button Controls
-* Firts with auto swap
 
-# Roam 2
+====================================================================
+DEVICES WITH BUILT-IN ETHERNET
+====================================================================
 
-* Waterproof(IP67)
-* 10 battery 
-* Bluetooth
-* Apple AirPlay 2
-* Voice enabled 
-* WiFi
-* Automatic Trueplay    
-* Button Controls
-* Bluetooth Auto of the Box 
+- Sonos Arc
+- Sonos Arc Ultra
+- Sonos Beam Gen 1
+- Sonos Beam Gen 2
+- Sonos Ray
+- Sonos One
+- Sonos One SL
+- Sonos Five
+- Sonos Play:1
+- Sonos Play:3
+- Sonos Play:5 Gen 1
+- Sonos Play:5 Gen 2
+- Sonos Amp
+- Sonos Port
+- Sonos Connect
+- Sonos Connect:Amp
+- Sonos Playbar
+- Sonos Playbase
+- Sonos Boost
+- Sonos Bridge
 
-# SONOS ALL-in-One Speakers 
 
-## Sones One/ One SL
+====================================================================
+MODERN WI-FI ONLY ARCHITECTURE
+====================================================================
 
-* Join button 
-* Ethernet port
-* Voice services
-* Microphone on/off
-* Trueplay
+(Does NOT behave like classic SonosNet)
 
-## Play 1/3
+- Sonos Era 100
+- Sonos Era 300
+- Sonos Roam
+- Sonos Roam 2
+- Sonos Move
+- Sonos Move 2
 
-* No voice assistance
-* Connect by WiFi and Ethernet cable
-* Phiscal bottoms.
+====================================================================
+LINE-IN (ANALOG / AUDIO INPUT)
+====================================================================
+LINE-IN NATIVO
 
-## IKEA 
+Sonos Five
+Sonos Play:5 (Gen 2)
+Sonos Play:5 (Gen 1)
+Sonos Play:3
+Sonos Amp
+Sonos Port
+Sonos Connect (Gen 1)
+Sonos Connect (Gen 2)
+Sonos Connect:Amp (Gen 1)
+Sonos Connect:Amp (Gen 2)
 
-* Transfer call 
+====================================================================
+LINE-IN VIA ADAPTADOR (USB-C / LINE-IN ADAPTER)
+====================================================================
 
-### Audio Components 
+Sonos Era 100
+Sonos Era 300
+Sonos Move 2
 
-* Do not have built-in-speakers 
-* Need a receiver to output audio
+SIN LINE-IN
 
-## Amp
+Sonos Arc
+Sonos Arc Ultra
+Sonos Beam (Gen 1)
+Sonos Beam (Gen 2)
+Sonos Ray
+Sonos Playbar
+Sonos Playbase
+Sonos One
+Sonos One SL
+Sonos Move (Gen 1)
+Sonos Roam
+Sonos Roam 2
 
-* 125 watts per channel 
-* HDMI ARC
-* Touch controls 
-* Line In 
-* WiFi/Ethernet ports 
+====================================================================
+SOUND BARS INPUT METHODS (CORRECTED)
+====================================================================
 
-## PORT 
+IMPORTANT:
+Soundbars do NOT support line-in, RCA, or analog input.
 
-* Convert signal analog/digital or viceversa
-* To use third party speakers or devices.
+====================================================================
+HDMI ARC / eARC (TV INPUT ONLY)
+====================================================================
 
-  # HOME THEATER 
+Sonos Arc
+Sonos Arc Ultra
+Sonos Beam (Gen 1)
+Sonos Beam (Gen 2)
 
-* All-in-one speakers
-* Able to play TV audio directly from TV via digital cable or HDMI
+====================================================================
+OPTICAL INPUT (TV INPUT ONLY)
+====================================================================
 
-## ARC Ultra
+Sonos Ray
+Sonos Playbar
+Sonos Playbase
 
-* Sound Motion (enable subwoofer) 
-* Bluetooth 
-* Wi-fi
-* HDMI e ARC
-* Voice enabled
-* Trueplay 
-* Night Sound 
-* Dolby Atmos
-* Woks with TV remote
-* Speech Ehancement 
-* Touch controls 
+====================================================================
+NO HDMI / NO OPTICAL INPUT
+====================================================================
 
-## Beam Gen 2
+Sonos Move
+Sonos Move 2
+Sonos Roam
+Sonos Roam 2
+Sonos One
+Sonos One SL
+Sonos Five
+Sonos Amp
+Sonos Port
+Sonos Connect series
 
-* Dolby Atmos
-* WiFi 
-* TV remote sync 
-* Voice Enabled
-* Trueplay  
-* HDMI e ARC
-* Touch controls
+====================================================================
 
-## Ray 
+Subs
+====================================================================
 
-* Optical
-* Wifi 
-* TV remote sync
-* Touch controls
+Sonos Sub 1
+Sonos Sub 2
+Sonos Sub 3
+Sonos Sub 4
+Sonos Sub mini
 
-## Amp
 
-* 125 watts per channel
-* HDMI ARC
-* Touch controls 
-* Line in
-* Apple AirPlay 2
-* WiFi
- 
- 
-ALL DEVICES FROM ERA 100 LED LIGHTS ARE DISABLED BY DEFAULT 
+===============================================
+Not compatible with SONOS network
+===============================================
+
+Arc ultra
+Ace
+eras 100 300
+roam ,2 
+Move, 2
+Play
