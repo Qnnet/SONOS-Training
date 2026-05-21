@@ -278,4 +278,23 @@ Content delivery network
 Add links to find a location by country - Artits - Podcast ETC. 
 
 
+## Sonos On/Off
+
+Smart connect - OFF
+Public IP's - NOT SUPPORTED
+10.0.0.0
+172.16.0.0
+192.168.0.0
+Enterprise - OFF
+Hidden SSID - OFF
+UPnP - ON
+Airtime frames
+Guest Net- OFF
+IGMP Proxy - OFF
+VPN - OFF
+IGMP Snooping - ON
+Beamforming - OFF
+QoS - OFF
+Bridge Mode - ON
+MAC Filtering - OFF
 
