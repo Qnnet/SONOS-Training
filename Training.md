@@ -1,3 +1,112 @@
+ SONOS
+
+ * Sonos devices do not support Double NAT. To avoid issues, use only one NAT device or set the second router to bridge mode.
+ * The DHCP reservation feature must be disabled for Sonos to work properly.
+* Sonos se conecta a red local no se puede conectar red celular
+* Los speakers funcinan con Multicast
+ * The Wi‑Fi WPA security setting must be WPA2 for Sonos to work properly.
+* Sonos devices do not support WPA Enterprise authentication 
+* SONOS devices require SSID Broadcast to be enabled and do not support hidden (non‑broadcast) Wi‑Fi networks.
+* SONOS do not support Guest Network
+* Multiple Wi‑Fi networks can share the same name (SSID) but use different IP addresses. If your Sonos devices aren’t on the same network, expect connectivity problems.
+* Do not support public IP address
+* Sonos devices cannot be set up for the first time using tethering or mobile hotspots as the internet connection.
+* Use a regular home Wi‑Fi network for the initial setup.
+* For most Sonos devices to work, the router must support both 2.4 GHz and 5 GHz.  Routers with only 5 GHz are not supported.
+* 2.4GHz non overlapping 
+* There is a Wi‑Fi feature that makes a router act like a directional antenna.  
+* It’s called Beamforming, and it should be turned off when using Sonos devices.
+* Sonos devices do not support connections through wireless extenders.
+
+Network Hardware not supported
+https://support.sonos.com/en-us/article/incompatible-network-hardware
+
+Important settings to check for 2.4 GHz and 5 GHz
+ 
+
+If both bands (5GHz and 2.4GHz) share the same Wi‑Fi name (SSID), rename them and separate the bands. Disable Band Steering and Smart Steering if available.
+
+Make sure the wireless mode is set to b/g/n (supports multiple Wi‑Fi standards).
+
+Set the channel width to 20 MHz.
+
+Not all Sonos devices support Wi‑Fi 5 (802.11ac).
+
+# DAY 1/1
+
+Local Area Network (LAN)
+
+Wide Area Network (WAN)
+
+Metropolitan Area Network (MAN)
+
+Controller Area Network (CAN)
+
+Personal Area Network (PAN)
+
+Wireless Local Area Network (WLAN)
+
+Physical Topologies physically connected
+
+Logical Topologies  describes configuration
+
+
+PAN Personal Area Network hay dispositivos que no se conectan (MAC)
+Los speakers funcuinan con Multicast
+
+EMI (Electromagnetic Interference) noise or disruption in an network caused by external electromagnetic fields
+
+RFI (Radio Frequency Interference)Radio Frequency Interference  (RFI) is a subset of EMI specifically dealing with high-frequency disturbances in the radio frequency spectrum
+
+ 
+
+# DAY 1/2
+SWITCH 
+
+1.MAC-address learning 
+El switch aprende los MAC que le ingresan 
+
+2.Flooding
+El switch manda el paquete excepto por la interface de donde ingreso 
+
+3.MAC address Table
+
+show mac-address-table 
+
+4.ipconfig /all
+Muestra el MAC de la PC 
+
+Personal Authentication usar SSID and password WAP WAP2 WAP3
+
+Enterprise Authentication un server revisa en la lista usuario y password para dar accesso 
+
+ 
+
+# DAY 1/3
+
+ DHCP
+
+ DNS
+
+ # DAY 1/4
+
+ NAT 
+
+ UDP/TCP
+
+ # DAY 1/5
+
+ DOS Denial Service Attacks 
+ Satura los servidores para que los verdaderos usuarios no tengan acceso (Ejemplo de UBER)           
+
+ ROGUE ACCESS POINT 
+
+ An unauthorized or fake access point that mimics a legitimate one, tricking users into connecting and exposing their data.
+
+MAN-IN THE-MIDDLE MITM
+
+ An attacker intercepts communication between a user and the network, allowing data to be monitored or altered without detection.
+ 
 ## Tipos de verification 
 * NFC
 * CHIRP PASSCODE
