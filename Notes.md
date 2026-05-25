@@ -1,17 +1,18 @@
 
 Issue Description:
 
-System:Existing/NEQ
+System:Existing/NEW
 App / Controller: Sonos app / IOS
 Sonos product and room name: 
 
 Troubleshooting:
+Step by Step 
 
 * Topo: 
 
-* Guru: 
+* Guru: LINKS
 
-* Diag: 
+* Diag: LINKS
 
 Call Done > EOC
 
