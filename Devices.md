@@ -223,7 +223,13 @@ Not compatible with SONOS network
 
 Arc ultra
 Ace
-eras 100 300
+Eras 100 300
 roam ,2 
 Move, 2
 Play
+
+
+LED TEST SEQUENCE
+Red-white-amber-green-white-red 
+
+

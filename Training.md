@@ -1,6 +1,6 @@
  SONOS
 
- * Sonos devices do not support Double NAT. To avoid issues, use only one NAT device or set the second router to bridge mode.
+ * Sonos devices do not support Double NAT. To avoid issues, use only one NAT device or set the second router to bridge mode.(Same SSID)
  * The DHCP reservation feature must be disabled for Sonos to work properly.
 * Sonos se conecta a red local no se puede conectar red celular
 * Los speakers funcinan con Multicast
@@ -397,7 +397,7 @@ Public IP's - NOT SUPPORTED
 Enterprise - OFF
 Hidden SSID - OFF
 UPnP - ON
-Airtime frames
+Airtime frames 
 Guest Net- OFF
 IGMP Proxy - OFF
 VPN - OFF
