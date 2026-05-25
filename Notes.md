@@ -1,11 +1,17 @@
 
-Issue Description: 
-System:
-App / Controller: Sonos / IOS
+Issue Description:
+
+System:Existing/NEQ
+App / Controller: Sonos app / IOS
 Sonos product and room name: 
 
 Troubleshooting:
 
+* Topo: 
+
+* Guru: 
+
+* Diag: 
 
 Call Done > EOC
 
@@ -16,7 +22,6 @@ Final Diag:
 If not resolved
 Recommended next steps and Guru cards: 
 Actions or tests the customer will do:
-
 
 
 
