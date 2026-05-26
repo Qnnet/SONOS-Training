@@ -57,3 +57,4 @@ All in one > Mesh node ))) sonos device      /
 
 - Input device: Automatically hear and receive the command
 - Playback speaker: Plays content requested   
+

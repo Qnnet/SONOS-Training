@@ -408,6 +408,9 @@ Bridge Mode - ON
 MAC Filtering - OFF
 
 
+Sonosnet wired
+sonos station wirless 
+
 
 
 
