@@ -94,6 +94,65 @@ How they are connected
 If the Sonosnet is faulty tried with different player
 If they are no connected to IP(Topolgy)
 
+## HOME THEATER
+
+CEC Allows to control HT with TV control and Voice controller
+
+# No Audio
+
+- Verify the physical connection 
+- Confirm the cable on both ends
+- If optical cable, verify light
+- Logical Address 5 allow sonos to first 
+- Internal Audio Source Disable 
+- System Audio mode Enable
+- ARC enable 
+- CEC  enable 
+
+# Cold reboot 
+Disconnect the TV and soundbar from power and the optical cable or HDMI
+Also if the TV has other things connected on the back disconnect them while we test this
+Then turn on the Soundbar
+Connect the Optical cable/HDMI back on both ends make sure it's well seated IF Using an HDMI Make sure it goes in the ARC/eARC port on the TV
+Plugback in the TV
+Also if the TV has other things connected on the back disconnect them while we test this
+
+# Audio Cutting Out 
+
+- The TV, the cable or the player
+- Check TV audio settings
+- Confirm What codec
+- Check AnacapaHT(msj LSE:Stream reset spdif on stop)
+- Switch from PCM to DD 
+- Swap HDMI
+
+# Low Volume 
+
+- Audio Settings (Diagnostic)
+- Something below 25 
+- Volume limit
+- Night Mode
+
+# No audio on Satelite(surrounds)
+
+- Another Data Source 
+- Diag check Component Summary
+- Review format Old movies/ TV shows/ News
+
+# Unable to add Satelite 
+
+- Issue with 5 GHz
+- Get topology 
+
+
+
+
+
+
+
+
+
+
 
 
 
