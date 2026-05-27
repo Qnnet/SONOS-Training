@@ -144,6 +144,24 @@ Also if the TV has other things connected on the back disconnect them while we t
 - Issue with 5 GHz
 - Get topology 
 
+# Audio Dropouts 
+
+- Data Source: Music Services, Line in, TV 
+- Data Path: Wifi Router, HDMI, RCA 
+
+Probing Questions?
+
+Is is happening in only one unit?
+LED status when the drop is happening?
+What source is the cx using?
+Is the user using multiple sources?
+When did the use issue start?
+Any network notification?
+SonoNet (WiFi Sonosapp) or Station Mode ?( Wired Router)
+
+
+
+
 
 
 
