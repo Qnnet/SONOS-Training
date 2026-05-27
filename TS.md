@@ -146,6 +146,8 @@ Also if the TV has other things connected on the back disconnect them while we t
 
 # Audio Dropouts 
 
+![alt text](image-1.png)
+
 - Data Source: Music Services, Line in, TV 
 - Data Path: Wifi Router, HDMI, RCA 
 
@@ -158,6 +160,21 @@ Is the user using multiple sources?
 When did the use issue start?
 Any network notification?
 SonoNet (WiFi Sonosapp) or Station Mode ?( Wired Router)
+Internet Traffic
+
+
+Route Bridge
+Group Cordinator
+Group Member
+
+https://roadie.sonos.com/apps/tokenEmails/
+
+![alt text](image.png)
+
+# Voice Services
+
+Mismatch accounts 
+
 
 
 

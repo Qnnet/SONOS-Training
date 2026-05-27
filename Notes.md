@@ -1,7 +1,7 @@
 
-Issue Description:
+Issue Description: Set Sonos app with PC
 
-System:Existing/NEW
+System:Existing 
 App / Controller: Sonos app / IOS
 Sonos product and room name: 
 

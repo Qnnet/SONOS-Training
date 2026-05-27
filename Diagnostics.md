@@ -58,3 +58,24 @@ All in one > Mesh node ))) sonos device      /
 - Input device: Automatically hear and receive the command
 - Playback speaker: Plays content requested   
 
+# Audio Dropouts
+
+- Collect Diag while is playing
+  Anacapa Red letters
+  WiFi TX PER more than 25-30
+  AP TX Stats PER (Station MODE)
+  AP RX B M PRR
+  Per -Tx Q red numbers
+  Direct Routing Matrix  (Only for group) 
+  PHY erros todos en 0
+  Noise Floor more than 5 jumps 
+
+What is the data path between the router and that player?
+Sonosnet or Station Mode?
+If grouped?
+Bad numbers
+What is the enviorment?
+What else is there?
+
+
+  
