@@ -1,5 +1,5 @@
 
-Issue Description: Set Sonos app with PC
+Issue Description: 
 
 System:Existing 
 App / Controller: Sonos app / IOS
@@ -23,6 +23,8 @@ Final Diag:
 If not resolved
 Recommended next steps and Guru cards: 
 Actions or tests the customer will do:
+
+
 
 
 
