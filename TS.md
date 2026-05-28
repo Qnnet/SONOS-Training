@@ -175,6 +175,17 @@ https://roadie.sonos.com/apps/tokenEmails/
 
 Mismatch accounts 
 
+# Dropped Room 
+
+ Missing Room 
+- Could be powered off
+- May no be getting an IP address
+- Double NAT
+- Defective wired
+- Far away from the rest of the system 
+
+
+
 
 
 
